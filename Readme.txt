@@ -1,0 +1,1 @@
+Events-update-page html and css layout
